@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaydontknow
-- 👀 I’m interested in web development, both front-end and back-end.
-- 🌱 I’m currently learning html, css, javascript, java, SQL through my studies.
+- 👀 I’m interested in front-end development, hoping to get into back-end in the future.
+- 🌱 I’m currently learning html, css, javascript.
 - 💞️ I’m looking to collaborate on anything. I am looking for any experience and to quick start my career in web development. 
 - 📫 How to reach me b email at kaymemia@gmail.com
 
